@@ -1,0 +1,906 @@
++++ main +++
+First run defaults
+comserver = 0
++++ InitApp
+
+** Init app  - debug mode 0**
+socket started on port 31765
+RcvBuf = 8000
+SndBuf = 8000
+My Local IP 192.168.0.10
+** END Init app **
+
+ERROR could not load sounds\button.wav.E
+ERROR could not load sounds\cast1.wav.E
+ERROR could not load sounds\clang.wav.E
+ERROR could not load sounds\ffft.wav.E
+ERROR could not load sounds\step.wav.E
+ERROR could not load sounds\guitar.wav.E
+ERROR could not load sounds\swish.wav.E
+ERROR could not load sounds\hitf.wav.E
+ERROR could not load sounds\growl1.wav.E
+ERROR could not load sounds\bow.wav.E
+ERROR could not load sounds\spell4.wav.E
+ERROR could not load sounds\SpExp.wav.E
+ERROR could not load sounds\droplet.wav.E
+ERROR could not load sounds\angel.wav.E
+ERROR could not load sounds\scream.wav.E
+ERROR could not load sounds\mgicwind.wav.E
+ERROR could not load sounds\chantspll.wav.E
+ERROR could not load sounds\tranquil.wav.E
+ERROR could not load sounds\grunt.wav.E
+ERROR could not load sounds\Uwater.wav.E
+ERROR could not load sounds\suprspell.wav.E
+ERROR could not load sounds\twinkle.wav.E
+ERROR could not load sounds\bugdie.wav.E
+ERROR could not load sounds\bugatt.wav.E
+ERROR could not load sounds\cast3.wav.E
+ERROR could not load sounds\cast4.wav.E
+ERROR could not load sounds\thud3.wav.E
+ERROR could not load sounds\EvilPower3.wav.E
+ERROR could not load sounds\FlameP.wav.E
+ERROR could not load sounds\9ExpD.wav.E
+ERROR could not load sounds\chimesmall.wav.E
+ERROR could not load sounds\night.wav.E
+ERROR could not load sounds\hoots.wav.E
+ERROR could not load sounds\evilspl.wav.E
+ERROR could not load sounds\skatt1.wav.E
+ERROR could not load sounds\skatt2.wav.E
+ERROR could not load sounds\skdie.wav.E
+ERROR could not load sounds\door1.wav.E
+ERROR could not load sounds\door2.wav.E
+ERROR could not load sounds\attwind.wav.E
+ERROR could not load sounds\spiderd.wav.E
+ERROR could not load sounds\ogrea.wav.E
+ERROR could not load sounds\ogreh.wav.E
+ERROR could not load sounds\ogred.wav.E
+ERROR could not load sounds\gurgle.wav.E
+ERROR could not load sounds\cvwind.wav.E
+ERROR could not load sounds\spell3.wav.E
+ERROR could not load sounds\wolfa.wav.E
+ERROR could not load sounds\wolfd.wav.E
+ERROR could not load sounds\glass.wav.E
+ERROR could not load sounds\flap.wav.E
+ERROR could not load sounds\dragdie.wav.E
+ERROR could not load sounds\draghit.wav.E
+ERROR could not load sounds\shortzap.wav.E
+ERROR could not load sounds\summon.wav.E
+ERROR could not load sounds\mind.wav.E
+ERROR could not load sounds\chickcluk.wav.E
+ERROR could not load sounds\chicken.wav.E
+ERROR could not load sounds\bigheal.wav.E
+ERROR could not load sounds\DivTueri.wav.E
+ERROR could not load sounds\cycwind.wav.E
+ERROR could not load sounds\golstep.wav.E
+ERROR could not load sounds\golswing.wav.E
+ERROR could not load sounds\beam.wav.E
+ERROR could not load sounds\redtail.wav.E
+ERROR could not load sounds\rot.wav.E
+ERROR could not load sounds\switch.wav.E
+ERROR could not load sounds\sclang.wav.E
+ERROR could not load sounds\hitwood.wav.E
+ERROR could not load sounds\bomb.wav.E
+ERROR could not load sounds\cast2.wav.E
+ERROR could not load sounds\wfw.wav.E
+ERROR could not load sounds\electric.wav.E
+ERROR could not load sounds\dstar.wav.E
+ERROR could not load sounds\impgrr.wav.E
+ERROR could not load sounds\impdie.wav.E
+ERROR could not load sounds\imphit.wav.E
+ERROR could not load sounds\volgrunt.wav.E
+ERROR could not load sounds\volgrunt2.wav.E
+ERROR could not load sounds\voldie.wav.E
+ERROR could not load sounds\demongnt.wav.E
+ERROR could not load sounds\demonhit.wav.E
+ERROR could not load sounds\demondie.wav.E
+ERROR could not load sounds\thunder.wav.E
+ERROR could not load sounds\rain.wav.E
+ERROR could not load sounds\shrine.wav.E
+ERROR could not load sounds\flameup.wav.E
+ERROR could not load sounds\orcat.wav.E
+ERROR could not load sounds\orcat2.wav.E
+ERROR could not load sounds\orcdie.wav.E
+ERROR could not load sounds\beam2.wav.E
+ERROR could not load sounds\beam3.wav.E
+ERROR could not load sounds\exp6.wav.E
+ERROR could not load sounds\tap.wav.E
+ERROR could not load sounds\powerup3.wav.E
+ERROR could not load sounds\glstart.wav.E
+ERROR could not load sounds\glstop.wav.E
+ERROR could not load sounds\glgo.wav.E
+ERROR could not load sounds\woodbreak.wav.E
+ERROR could not load sounds\FlameWind3.wav.E
+ERROR could not load sounds\Exp3b.wav.E
+ERROR could not load sounds\Male_Attack_01.wav.E
+ERROR could not load sounds\Male_Attack_02.wav.E
+ERROR could not load sounds\Male_Attack_05.wav.E
+ERROR could not load sounds\Male_Hurt_01.wav.E
+ERROR could not load sounds\Male_Hurt_02.wav.E
+ERROR could not load sounds\Male_Hurt_03.wav.E
+ERROR could not load sounds\Male_Death_02.wav.E
+ERROR could not load sounds\Male_Death_03.wav.E
+ERROR could not load sounds\Male_Greet1.wav.E
+ERROR could not load sounds\Male_Greet2.wav.E
+ERROR could not load sounds\male_taunt1.wav.E
+ERROR could not load sounds\male_taunt2.wav.E
+ERROR could not load sounds\male_taunt3.wav.E
+ERROR could not load sounds\male_laugh1.wav.E
+ERROR could not load sounds\male_laugh2.wav.E
+ERROR could not load sounds\male 2 Attack 1.wav.E
+ERROR could not load sounds\male 2 Attack 2.wav.E
+ERROR could not load sounds\male 2 Attack 3.wav.E
+ERROR could not load sounds\male 2 Hurt 1.wav.E
+ERROR could not load sounds\male 2 Hurt 2.wav.E
+ERROR could not load sounds\male 2 Hurt 3.wav.E
+ERROR could not load sounds\male 2 Death 1.wav.E
+ERROR could not load sounds\male 2 Death 2.wav.E
+ERROR could not load sounds\male 2 Greet 1.wav.E
+ERROR could not load sounds\male 2 Greet 2.wav.E
+ERROR could not load sounds\male 2 taunt 1.wav.E
+ERROR could not load sounds\male 2 taunt 2.wav.E
+ERROR could not load sounds\male 2 taunt 3.wav.E
+ERROR could not load sounds\male 2 laugh 1.wav.E
+ERROR could not load sounds\male 2 laugh 2.wav.E
+ERROR could not load sounds\male 3 Attack 1.wav.E
+ERROR could not load sounds\male 3 Attack 2.wav.E
+ERROR could not load sounds\male 3 Attack 3.wav.E
+ERROR could not load sounds\male 3 Hurt 1.wav.E
+ERROR could not load sounds\male 3 Hurt 2.wav.E
+ERROR could not load sounds\male 3 Hurt 3.wav.E
+ERROR could not load sounds\male 3 Death 1.wav.E
+ERROR could not load sounds\male 3 Death 2.wav.E
+ERROR could not load sounds\male 3 Greet 1.wav.E
+ERROR could not load sounds\male 3 Greet 2.wav.E
+ERROR could not load sounds\male 3 taunt 1.wav.E
+ERROR could not load sounds\male 3 taunt 2.wav.E
+ERROR could not load sounds\male 3 taunt 3.wav.E
+ERROR could not load sounds\male 3 laugh 1.wav.E
+ERROR could not load sounds\male 3 laugh 2.wav.E
+ERROR could not load sounds\male 4 Attack 1.wav.E
+ERROR could not load sounds\male 4 Attack 2.wav.E
+ERROR could not load sounds\male 4 Attack 3.wav.E
+ERROR could not load sounds\male 4 Hurt 1.wav.E
+ERROR could not load sounds\male 4 Hurt 2.wav.E
+ERROR could not load sounds\male 4 Hurt 3.wav.E
+ERROR could not load sounds\male 4 Death 1.wav.E
+ERROR could not load sounds\male 4 Death 2.wav.E
+ERROR could not load sounds\male 4 Greet 1.wav.E
+ERROR could not load sounds\male 4 Greet 2.wav.E
+ERROR could not load sounds\male 4 taunt 1.wav.E
+ERROR could not load sounds\male 4 taunt 2.wav.E
+ERROR could not load sounds\male 4 taunt 3.wav.E
+ERROR could not load sounds\male 4 laugh 1.wav.E
+ERROR could not load sounds\male 4 laugh 2.wav.E
+ERROR could not load sounds\fem 1 Attack 1.wav.E
+ERROR could not load sounds\fem 1 Attack 2.wav.E
+ERROR could not load sounds\fem 1 Attack 3.wav.E
+ERROR could not load sounds\fem 1 Hurt 1.wav.E
+ERROR could not load sounds\fem 1 Hurt 2.wav.E
+ERROR could not load sounds\fem 1 Hurt 3.wav.E
+ERROR could not load sounds\fem 1 Death 1.wav.E
+ERROR could not load sounds\fem 1 Death 2.wav.E
+ERROR could not load sounds\fem 1 Greet 1.wav.E
+ERROR could not load sounds\fem 1 Greet 2.wav.E
+ERROR could not load sounds\fem 1 taunt 1.wav.E
+ERROR could not load sounds\fem 1 taunt 2.wav.E
+ERROR could not load sounds\fem 1 taunt 3.wav.E
+ERROR could not load sounds\fem 1 laugh 1.wav.E
+ERROR could not load sounds\fem 1 laugh 2.wav.E
+ERROR could not load sounds\fem 2 Attack 1.wav.E
+ERROR could not load sounds\fem 2 Attack 2.wav.E
+ERROR could not load sounds\fem 2 Attack 3.wav.E
+ERROR could not load sounds\fem 2 Hurt 1.wav.E
+ERROR could not load sounds\fem 2 Hurt 2.wav.E
+ERROR could not load sounds\fem 2 Hurt 3.wav.E
+ERROR could not load sounds\fem 2 Death 1.wav.E
+ERROR could not load sounds\fem 2 Death 2.wav.E
+ERROR could not load sounds\fem 2 Greet 1.wav.E
+ERROR could not load sounds\fem 2 Greet 2.wav.E
+ERROR could not load sounds\fem 2 taunt 1.wav.E
+ERROR could not load sounds\fem 2 taunt 2.wav.E
+ERROR could not load sounds\fem 2 taunt 3.wav.E
+ERROR could not load sounds\fem 2 laugh 1.wav.E
+ERROR could not load sounds\fem 2 laugh 2.wav.E
+ERROR could not load sounds\fem 3 Attack 1.wav.E
+ERROR could not load sounds\fem 3 Attack 2.wav.E
+ERROR could not load sounds\fem 3 Attack 3.wav.E
+ERROR could not load sounds\fem 3 Hurt 1.wav.E
+ERROR could not load sounds\fem 3 Hurt 2.wav.E
+ERROR could not load sounds\fem 3 Hurt 3.wav.E
+ERROR could not load sounds\fem 3 Death 1.wav.E
+ERROR could not load sounds\fem 3 Death 2.wav.E
+ERROR could not load sounds\fem 3 Greet 1.wav.E
+ERROR could not load sounds\fem 3 Greet 2.wav.E
+ERROR could not load sounds\fem 3 taunt 1.wav.E
+ERROR could not load sounds\fem 3 taunt 2.wav.E
+ERROR could not load sounds\fem 3 taunt 3.wav.E
+ERROR could not load sounds\fem 3 laugh 1.wav.E
+ERROR could not load sounds\fem 3 laugh 2.wav.E
+ERROR could not load sounds\fem 4 Attack 1.wav.E
+ERROR could not load sounds\fem 4 Attack 2.wav.E
+ERROR could not load sounds\fem 4 Attack 3.wav.E
+ERROR could not load sounds\fem 4 Hurt 1.wav.E
+ERROR could not load sounds\fem 4 Hurt 2.wav.E
+ERROR could not load sounds\fem 4 Hurt 3.wav.E
+ERROR could not load sounds\fem 4 Death 1.wav.E
+ERROR could not load sounds\fem 4 Death 2.wav.E
+ERROR could not load sounds\fem 4 Greet 1.wav.E
+ERROR could not load sounds\fem 4 Greet 2.wav.E
+ERROR could not load sounds\fem 4 taunt 1.wav.E
+ERROR could not load sounds\fem 4 taunt 2.wav.E
+ERROR could not load sounds\fem 4 taunt 3.wav.E
+ERROR could not load sounds\fem 4 laugh 1.wav.E
+ERROR could not load sounds\fem 4 laugh 2.wav.E
+ERROR could not load sounds\mon1 attack1.wav.E
+ERROR could not load sounds\mon1 attack2.wav.E
+ERROR could not load sounds\mon1 get hit.wav.E
+ERROR could not load sounds\mon1 death1.wav.E
+ERROR could not load sounds\mon1 death2.wav.E
+ERROR could not load sounds\mon1 laugh.wav.E
+ERROR could not load sounds\mon2 attack.wav.E
+ERROR could not load sounds\mon2 get hit1.wav.E
+ERROR could not load sounds\mon2 get hit2.wav.E
+ERROR could not load sounds\mon2 death1.wav.E
+ERROR could not load sounds\mon2 death2.wav.E
++++ CreateDevice
+
+** Create Device **
+Texture imt1.bmp not found for 
+Texture dirt1.jpg not found for 
+Texture dirt2.jpg not found for 
+Texture grnd01m.jpg not found for 
+Texture grassdk3.jpg not found for 
+Texture grasslt.jpg not found for 
+Texture mossleaves.jpg not found for 
+Texture mossdirt.jpg not found for 
+Texture cave02.jpg not found for 
+Texture sand.jpg not found for 
+Texture water000.jpg not found for 
+Texture lava.jpg not found for 
+Texture liquid00.jpg not found for 
+Texture cobble4.jpg not found for 
+Texture cobble5.jpg not found for 
+Texture cobble6.jpg not found for 
+Texture rock7.bmp not found for 
+Texture rock8.bmp not found for 
+Texture lava1.jpg not found for 
+Texture lava2.jpg not found for 
+Texture ground03.jpg not found for 
+Texture ground04.jpg not found for 
+Texture floor1.bmp not found for 
+Texture floor2.bmp not found for 
+Texture floor3.bmp not found for 
+Texture tx31.bmp not found for 
+Texture ground02.jpg not found for 
+Texture marble1.jpg not found for 
+Texture marble2.jpg not found for 
+Texture marbleB.jpg not found for 
+Texture marbleG.jpg not found for 
+Texture tile7.bmp not found for 
+Texture floor4.bmp not found for 
+Texture brickfloor.jpg not found for 
+Texture tile12.bmp not found for 
+Texture marb07s.bmp not found for 
+Texture cobble3.bmp not found for 
+Texture marble3.jpg not found for 
+Texture ground05.jpg not found for 
+Texture floor7.jpg not found for 
+Texture smart1.jpg not found for 
+Texture smart2.jpg not found for 
+Texture WoodPlanks_d.jpg not found for 
+Texture wood5.bmp not found for 
+Texture wood 4.jpg not found for 
+Texture txblack.bmp not found for 
+Texture symbol.bmp not found for TextureManager
+Texture items.bmp not found for TextureManager
+Texture buffbox.bmp not found for TextureManager
+Texture objects.bmp not found for TextureManager
+Texture buffs.bmp not found for TextureManager
+Texture back1.bmp not found for TextureManager
+Texture back2.bmp not found for TextureManager
+Texture backc.bmp not found for TextureManager
+Texture backw.bmp not found for TextureManager
+Texture backxl1.bmp not found for TextureManager
+Texture redsurfdk.bmp not found for TextureManager
+Texture redblue.jpg not found for TextureManager
+Texture greensurf.bmp not found for TextureManager
+Texture redsurf.bmp not found for TextureManager
+Texture bluesurf.bmp not found for TextureManager
+Texture yellowsurf.bmp not found for TextureManager
+Texture ScrollFX2.bmp not found for TextureManager
+Texture water/water000.jpg not found for TextureManager
+Texture water/water001.jpg not found for TextureManager
+Texture water/water002.jpg not found for TextureManager
+Texture water/water003.jpg not found for TextureManager
+Texture water/water004.jpg not found for TextureManager
+Texture water/water005.jpg not found for TextureManager
+Texture water/water006.jpg not found for TextureManager
+Texture water/water007.jpg not found for TextureManager
+Texture water/water008.jpg not found for TextureManager
+Texture water/water009.jpg not found for TextureManager
+Texture water/water010.jpg not found for TextureManager
+Texture water/water011.jpg not found for TextureManager
+Texture water/water012.jpg not found for TextureManager
+Texture water/water013.jpg not found for TextureManager
+Texture water/water014.jpg not found for TextureManager
+Texture water/water015.jpg not found for TextureManager
+Texture water/water016.jpg not found for TextureManager
+Texture water/water017.jpg not found for TextureManager
+Texture water/water018.jpg not found for TextureManager
+Texture water/water019.jpg not found for TextureManager
+Texture water/water020.jpg not found for TextureManager
+Texture water/water021.jpg not found for TextureManager
+Texture water/water022.jpg not found for TextureManager
+Texture water/water023.jpg not found for TextureManager
+Texture water/water024.jpg not found for TextureManager
+Texture water/water025.jpg not found for TextureManager
+Texture water/water026.jpg not found for TextureManager
+Texture water/water027.jpg not found for TextureManager
+Texture water/water028.jpg not found for TextureManager
+Texture water/water029.jpg not found for TextureManager
+Texture water/water030.jpg not found for TextureManager
+Texture water/water031.jpg not found for TextureManager
+Texture water/water032.jpg not found for TextureManager
+Texture water/water033.jpg not found for TextureManager
+Texture water/water034.jpg not found for TextureManager
+Texture water/water035.jpg not found for TextureManager
+Texture water/water036.jpg not found for TextureManager
+Texture water/water037.jpg not found for TextureManager
+Texture water/water038.jpg not found for TextureManager
+Texture water/water039.jpg not found for TextureManager
+Texture water/water040.jpg not found for TextureManager
+Texture water/water041.jpg not found for TextureManager
+Texture water/water042.jpg not found for TextureManager
+Texture water/water043.jpg not found for TextureManager
+Texture water/water044.jpg not found for TextureManager
+Texture water/water045.jpg not found for TextureManager
+Texture water/water046.jpg not found for TextureManager
+Texture water/water047.jpg not found for TextureManager
+Texture water/water048.jpg not found for TextureManager
+Texture water/water049.jpg not found for TextureManager
+Texture water/water050.jpg not found for TextureManager
+Texture water/water051.jpg not found for TextureManager
+Texture water/water052.jpg not found for TextureManager
+Texture water/water053.jpg not found for TextureManager
+Texture water/water054.jpg not found for TextureManager
+Texture water/water055.jpg not found for TextureManager
+Texture water/water056.jpg not found for TextureManager
+Texture water/water057.jpg not found for TextureManager
+Texture water/water058.jpg not found for TextureManager
+Texture water/water059.jpg not found for TextureManager
+Texture water/water060.jpg not found for TextureManager
+Texture water/water061.jpg not found for TextureManager
+Texture water/water062.jpg not found for TextureManager
+Texture water/water063.jpg not found for TextureManager
+Texture water/water064.jpg not found for TextureManager
+Texture water/water065.jpg not found for TextureManager
+Texture water/water066.jpg not found for TextureManager
+Texture water/water067.jpg not found for TextureManager
+Texture water/water068.jpg not found for TextureManager
+Texture water/water069.jpg not found for TextureManager
+Texture water/water070.jpg not found for TextureManager
+Texture water/water071.jpg not found for TextureManager
+Texture water/water072.jpg not found for TextureManager
+Texture water/water073.jpg not found for TextureManager
+Texture water/water074.jpg not found for TextureManager
+Texture water/water075.jpg not found for TextureManager
+Texture water/water076.jpg not found for TextureManager
+Texture water/water077.jpg not found for TextureManager
+Texture water/water078.jpg not found for TextureManager
+Texture water/water079.jpg not found for TextureManager
+Texture water/water080.jpg not found for TextureManager
+Texture water/water081.jpg not found for TextureManager
+Texture water/water082.jpg not found for TextureManager
+Texture water/water083.jpg not found for TextureManager
+Texture water/water084.jpg not found for TextureManager
+Texture water/water085.jpg not found for TextureManager
+Texture water/water086.jpg not found for TextureManager
+Texture water/water087.jpg not found for TextureManager
+Texture water/water088.jpg not found for TextureManager
+Texture water/water089.jpg not found for TextureManager
+Texture water/water090.jpg not found for TextureManager
+Texture water/water091.jpg not found for TextureManager
+Texture water/water092.jpg not found for TextureManager
+Texture water/water093.jpg not found for TextureManager
+Texture water/water094.jpg not found for TextureManager
+Texture water/water095.jpg not found for TextureManager
+Texture water/water096.jpg not found for TextureManager
+Texture water/water097.jpg not found for TextureManager
+Texture water/water098.jpg not found for TextureManager
+Texture water/water099.jpg not found for TextureManager
+Texture water/water100.jpg not found for TextureManager
+Texture water/water101.jpg not found for TextureManager
+Texture water/water102.jpg not found for TextureManager
+Texture water/water103.jpg not found for TextureManager
+Texture water/water104.jpg not found for TextureManager
+Texture water/water105.jpg not found for TextureManager
+Texture water/water106.jpg not found for TextureManager
+Texture water/water107.jpg not found for TextureManager
+Texture water/water108.jpg not found for TextureManager
+Texture water/water109.jpg not found for TextureManager
+Texture water/water110.jpg not found for TextureManager
+Texture water/water111.jpg not found for TextureManager
+Texture water/water112.jpg not found for TextureManager
+Texture water/water113.jpg not found for TextureManager
+Texture water/water114.jpg not found for TextureManager
+Texture water/water115.jpg not found for TextureManager
+Texture water/water116.jpg not found for TextureManager
+Texture water/water117.jpg not found for TextureManager
+Texture water/water118.jpg not found for TextureManager
+Texture water/water119.jpg not found for TextureManager
+Texture water/water120.jpg not found for TextureManager
+Texture water/water121.jpg not found for TextureManager
+Texture water/water122.jpg not found for TextureManager
+Texture water/water123.jpg not found for TextureManager
+Texture water/water124.jpg not found for TextureManager
+Texture liquid/liquid00.tga not found for TextureManager
+Texture liquid/liquid01.tga not found for TextureManager
+Texture liquid/liquid02.tga not found for TextureManager
+Texture liquid/liquid03.tga not found for TextureManager
+Texture liquid/liquid04.tga not found for TextureManager
+Texture liquid/liquid05.tga not found for TextureManager
+Texture liquid/liquid06.tga not found for TextureManager
+Texture liquid/liquid07.tga not found for TextureManager
+Texture liquid/liquid08.tga not found for TextureManager
+Texture liquid/liquid09.tga not found for TextureManager
+Texture liquid/liquid10.tga not found for TextureManager
+Texture liquid/liquid11.tga not found for TextureManager
+Texture liquid/liquid12.tga not found for TextureManager
+Texture liquid/liquid13.tga not found for TextureManager
+Texture liquid/liquid14.tga not found for TextureManager
+Texture liquid/liquid15.tga not found for TextureManager
+Texture liquid/liquid16.tga not found for TextureManager
+Texture liquid/liquid17.tga not found for TextureManager
+Texture liquid/liquid18.tga not found for TextureManager
+Texture liquid/liquid19.tga not found for TextureManager
+Texture liquid/liquid20.tga not found for TextureManager
+Texture liquid/liquid21.tga not found for TextureManager
+Texture liquid/liquid22.tga not found for TextureManager
+Texture liquid/liquid23.tga not found for TextureManager
+Texture liquid/liquid24.tga not found for TextureManager
+Texture liquid/liquid25.tga not found for TextureManager
+Texture liquid/liquid26.tga not found for TextureManager
+Texture liquid/liquid27.tga not found for TextureManager
+Texture liquid/liquid28.tga not found for TextureManager
+Texture liquid/liquid29.tga not found for TextureManager
+Texture liquid/liquid30.tga not found for TextureManager
+Texture liquid/liquid31.tga not found for TextureManager
+Texture maps\map0.bmp not found for TextureManager
+Texture maps\map18.bmp not found for TextureManager
+Texture maps\map19.bmp not found for TextureManager
+Texture maps\map35.bmp not found for TextureManager
+Texture maps\map13.bmp not found for TextureManager
+Texture maps\map14.bmp not found for TextureManager
+Texture maps\map16.bmp not found for TextureManager
+Texture maps\map17.bmp not found for TextureManager
+Texture maps\map10.bmp not found for TextureManager
+Texture maps\map11.bmp not found for TextureManager
+Texture maps\map12.bmp not found for TextureManager
+Texture maps\map39.bmp not found for TextureManager
+Texture maps\map40.bmp not found for TextureManager
+Texture maps\map20.bmp not found for TextureManager
+Texture maps\map36.bmp not found for TextureManager
+Texture maps\map9.bmp not found for TextureManager
+Texture maps\map8.bmp not found for TextureManager
+Texture maps\map7.bmp not found for TextureManager
+Texture maps\map34.bmp not found for TextureManager
+Texture maps\map33.bmp not found for TextureManager
+Texture maps\map6.bmp not found for TextureManager
+Texture maps\map15.bmp not found for TextureManager
+Texture maps\map3.bmp not found for TextureManager
+Texture maps\map4.bmp not found for TextureManager
+Texture maps\map5.bmp not found for TextureManager
+Texture maps\map37.bmp not found for TextureManager
+Texture maps\map24.bmp not found for TextureManager
+Texture maps\map38.bmp not found for TextureManager
+Texture maps\map1.bmp not found for TextureManager
+Texture maps\map2.bmp not found for TextureManager
+Texture maps\map21.bmp not found for TextureManager
+Texture maps\map22.bmp not found for TextureManager
+Texture maps\map23.bmp not found for TextureManager
+Initialized input
+Texture TriParts.bmp not found for TextureManager
+Texture bloodparts.png not found for TextureManager
+Init game data
+END Init game data
+Skeletal Model models\CapeWing1.skm not found
+Skeletal Model models\CapeWing2.skm not found
+Skeletal Model models\CapeWing3.skm not found
+Skeletal Model models\CapeWing4.skm not found
+GameModel models\skybox.model not found
+GameModel models\starbox.model not found
+Texture sun1.bmp not found for models\starbox.model
+Texture sun2.bmp not found for models\starbox.model
+Texture moon1.tga not found for models\starbox.model
+Texture moon2.tga not found for models\starbox.model
+GameModel models\ff3.model not found
+GameModel models\ebeam1.model not found
+GameModel models\ebeam2.model not found
+GameModel models\ebeam3.model not found
+GameModel models\ebeam4.model not found
+GameModel models\ebeam5s.model not found
+GameModel models\ebeam5m.model not found
+GameModel models\ebeam5l.model not found
+** END Create Device **
+
+DOODST.POS not found
+WALK1.POS not found
+WALK2.POS not found
+DOODA1.POS not found
+DOODA2.POS not found
+BAUULW1.POS not found
+BAUULW2.POS not found
+BAUULST.POS not found
+BUGW1.POS not found
+BUGW2.POS not found
+DOODWA1.POS not found
+DOODWA2.POS not found
+BUGA1.POS not found
+BAUULA1.POS not found
+BAUULA2.POS not found
+DOODBA1.POS not found
+DOODBA2.POS not found
+DOODDEAD.POS not found
+CAST1.POS not found
+TROLLDED.POS not found
+BUGDED.POS not found
+DOODA3.POS not found
+DOODA4.POS not found
+DOODA5.POS not found
+DOODA6.POS not found
+DOODST1.POS not found
+DOODST2.POS not found
+SPIDERW1.POS not found
+SPIDERW2.POS not found
+SPIDERA1.POS not found
+SPIDERA2.POS not found
+SPIDERD.POS not found
+DOODPW1.POS not found
+DOODPW2.POS not found
+DOODPA1.POS not found
+DOODPA2.POS not found
+DOODPST1.POS not found
+DOODPST2.POS not found
+DOODPST3.POS not found
+FEMPW1.POS not found
+FEMPW2.POS not found
+FEMPA1.POS not found
+FEMPA2.POS not found
+FEMPST1.POS not found
+FEMPST2.POS not found
+FEMPST3.POS not found
+DOODSW1.POS not found
+DOODSW2.POS not found
+WIZPA1.POS not found
+WIZPA2.POS not found
+WIZPST1.POS not found
+WIZPST2.POS not found
+WIZPST3.POS not found
+DOODTW1.POS not found
+DOODTW2.POS not found
+DOODTA1.POS not found
+DOODTA2.POS not found
+DOODTST1.POS not found
+DOODTST2.POS not found
+DOODTST3.POS not found
+FEMTW1.POS not found
+FEMTW2.POS not found
+FEMTA1.POS not found
+FEMTA2.POS not found
+FEMTST1.POS not found
+FEMTST2.POS not found
+FEMTST3.POS not found
+LDEMONA1.POS not found
+LDEMONA2.POS not found
+LDEMONA3.POS not found
+LDEMONA4.POS not found
+DOODSW3.POS not found
+DOODSW4.POS not found
+LIZTW1.POS not found
+LIZTW2.POS not found
+LIZTA1.POS not found
+LIZTA2.POS not found
+LIZTST1.POS not found
+LIZTST2.POS not found
+LIZTST3.POS not found
+LIZPW1.POS not found
+LIZPW2.POS not found
+LIZPA1.POS not found
+LIZPA2.POS not found
+DOODDR.POS not found
+WOLFBA1.POS not found
+WOLFBA2.POS not found
+WOLFBA3.POS not found
+CAST2.POS not found
+HHA1.POS not found
+HHW1.POS not found
+HHW2.POS not found
+HHST1.POS not found
+HHST2.POS not found
+HHST3.POS not found
+HHDEAD.POS not found
+BAUULDED.POS not found
+DRAGDED.POS not found
+DRAGF1.POS not found
+DRAGF2.POS not found
+DRAGF3.POS not found
+DRAGDED2.POS not found
+DRAGDED3.POS not found
+SPIRW1.POS not found
+CHICW1.POS not found
+CHICW2.POS not found
+CHICPEC.POS not found
+CHICDIE.POS not found
+HFLY1.POS not found
+HFLY2.POS not found
+TARW1.POS not found
+TARW2.POS not found
+SCALTW1.POS not found
+SCALTW2.POS not found
+SCALTA1.POS not found
+SCALTA2.POS not found
+SCALTST1.POS not found
+SCALTST2.POS not found
+BLOCK1HA.POS not found
+BLOCKS.POS not found
+DOODA7.POS not found
+BLOCK1HD.POS not found
+CAST3.POS not found
+DOODLUN1.POS not found
+DOODLUN2.POS not found
+BAUULHIT.POS not found
+LDEMONHT.POS not found
+DD11.POS not found
+DD21.POS not found
+DD22.POS not found
+SCA1.POS not found
+SCA2.POS not found
+SCA3.POS not found
+SCA4.POS not found
+SCD.POS not found
+SCW1.POS not found
+SCW2.POS not found
+SCD2.POS not found
+PIXD.POS not found
+DOODFS1.POS not found
+DOODFS2.POS not found
+DOODFS3.POS not found
+DOODA8.POS not found
+VOLS1.POS not found
+VOLS2.POS not found
+VOLW1.POS not found
+VOLW1B.POS not found
+VOLW2.POS not found
+VOLW2B.POS not found
+VOLA1.POS not found
+VOLA2.POS not found
+VOLD1.POS not found
+VOLD2.POS not found
+VOLA3.POS not found
+VOLA4.POS not found
+VOLLNG.POS not found
+DEMW1.POS not found
+DEMW1B.POS not found
+DEMW2.POS not found
+DEMW2B.POS not found
+SINK.POS not found
+WOLFBA4.POS not found
+WOLFBS1.POS not found
+MUMW1.POS not found
+MUMW2.POS not found
+MUMW3.POS not found
+MUMW4.POS not found
+WALK3.POS not found
+WALK4.POS not found
+RUN1.POS not found
+RUN2.POS not found
+RUN3.POS not found
+RUN4.POS not found
+ARACHA1.POS not found
+ARACHA2.POS not found
+ARACHW1.POS not found
+ARACHW2.POS not found
+RUN5.POS not found
+RUN6.POS not found
+RUNA1.POS not found
+RUNA2.POS not found
+RUNA3.POS not found
+RUNA4.POS not found
+RUNA5.POS not found
+STAB1.POS not found
+STAB2.POS not found
+BASH.POS not found
+SPIN1.POS not found
+SPIN2.POS not found
+SPIN3.POS not found
+JUMPA1.POS not found
+JUMPA2.POS not found
+SLICE1.POS not found
+FAN1.POS not found
+FAN2.POS not found
+FAN3.POS not found
+FAN4.POS not found
+FAN5.POS not found
+SIT.POS not found
+SIT2.POS not found
+SIT3.POS not found
+POINT.POS not found
+VIC1.POS not found
+VIC2.POS not found
+DANCE1.POS not found
+DANCE2.POS not found
+STAB3.POS not found
+RUNA6.POS not found
+WOLFBA5.POS not found
+WOLFBA6.POS not found
+WOLFBA7.POS not found
+WOLFBLOCK.POS not found
+HHW3.POS not found
+HHST4.POS not found
+DEMAT1.POS not found
+DEMAT2.POS not found
+DEMAT3.POS not found
+DEMAT4.POS not found
+DEMAT5.POS not found
+DEMAT6.POS not found
+GL1.POS not found
+GL2.POS not found
+GL3.POS not found
+GL4.POS not found
+JUMP.POS not found
+THROWDAG.POS not found
+SEQ ZERO NOT FOUND
+SEQ doodwalk NOT FOUND
+SEQ doodatt NOT FOUND
+SEQ daemonwalk NOT FOUND
+SEQ bugwalk NOT FOUND
+SEQ doodrunatt NOT FOUND
+SEQ bugatt NOT FOUND
+SEQ doodgethit NOT FOUND
+SEQ anygethit NOT FOUND
+SEQ daemonatt1 NOT FOUND
+SEQ daemonatt2 NOT FOUND
+SEQ daemongethit NOT FOUND
+SEQ doodbowatt NOT FOUND
+SEQ dooddeath NOT FOUND
+SEQ doodcast NOT FOUND
+SEQ Bugdeath NOT FOUND
+SEQ trollatt NOT FOUND
+SEQ trolldead NOT FOUND
+SEQ doodatt2 NOT FOUND
+SEQ doodatt3 NOT FOUND
+SEQ femaleatt NOT FOUND
+SEQ femaleatt2 NOT FOUND
+SEQ femaleatt3 NOT FOUND
+SEQ femalegethit NOT FOUND
+SEQ femaledeath NOT FOUND
+SEQ trollgethit NOT FOUND
+SEQ femalewizatt NOT FOUND
+SEQ femalewizatt2 NOT FOUND
+SEQ femalewizatt3 NOT FOUND
+SEQ femalewizgethit NOT FOUND
+SEQ femalewizdeath NOT FOUND
+SEQ skeletonatt1 NOT FOUND
+SEQ skeletonatt2 NOT FOUND
+SEQ skeletonatt3 NOT FOUND
+SEQ skeletongethit NOT FOUND
+SEQ skeletondeath NOT FOUND
+SEQ throwweapon NOT FOUND
+SEQ spiderwalk NOT FOUND
+SEQ spideratt NOT FOUND
+SEQ spiderdeath NOT FOUND
+SEQ runstaffatt NOT FOUND
+SEQ staffatt NOT FOUND
+SEQ standstaff NOT FOUND
+SEQ femrunstaff NOT FOUND
+SEQ femattstaff NOT FOUND
+SEQ femstandstaff NOT FOUND
+SEQ standing NOT FOUND
+SEQ malewizattackstaff NOT FOUND
+SEQ wizstandstaff NOT FOUND
+SEQ femwizattstaff NOT FOUND
+SEQ doodrunatt2h NOT FOUND
+SEQ doodatt2H NOT FOUND
+SEQ doodstand2H NOT FOUND
+SEQ femwalkatt2H NOT FOUND
+SEQ fematt2H NOT FOUND
+SEQ femstand2H NOT FOUND
+SEQ voluclunge NOT FOUND
+SEQ unused NOT FOUND
+SEQ volucdead NOT FOUND
+SEQ ogreatt1 NOT FOUND
+SEQ ogreatt2 NOT FOUND
+SEQ ogreatt3 NOT FOUND
+SEQ ogregethit NOT FOUND
+SEQ ogredeath NOT FOUND
+SEQ doodswim NOT FOUND
+SEQ doodtread NOT FOUND
+SEQ scallrunstaffatt NOT FOUND
+SEQ scallattstaff NOT FOUND
+SEQ scallwalk2H NOT FOUND
+SEQ scallatt2H NOT FOUND
+SEQ scallstand2H NOT FOUND
+SEQ dooddrown NOT FOUND
+SEQ dooddeadwater NOT FOUND
+SEQ doodwolfatt1 NOT FOUND
+SEQ doodwolfatt2 NOT FOUND
+SEQ doodcastpower NOT FOUND
+SEQ hellhoundwalk NOT FOUND
+SEQ hellhoundatt NOT FOUND
+SEQ hellhounddeath NOT FOUND
+SEQ hellhoundstand NOT FOUND
+SEQ daemondead NOT FOUND
+SEQ dragondead NOT FOUND
+SEQ dragonfly NOT FOUND
+SEQ dragongethit NOT FOUND
+SEQ daemonanimus NOT FOUND
+SEQ sumskel NOT FOUND
+SEQ skelattstaff NOT FOUND
+SEQ skelatt2H NOT FOUND
+SEQ chickenwalk NOT FOUND
+SEQ chickenstand NOT FOUND
+SEQ chickendeath NOT FOUND
+SEQ stoneelemwalk NOT FOUND
+SEQ stoneelematt NOT FOUND
+SEQ stoneelemgethit NOT FOUND
+SEQ calvgethit NOT FOUND
+SEQ calvdie NOT FOUND
+SEQ stoneelemdeath NOT FOUND
+SEQ hawkfly NOT FOUND
+SEQ pixwalk NOT FOUND
+SEQ pixatt NOT FOUND
+SEQ pixgethit NOT FOUND
+SEQ pixdeath NOT FOUND
+SEQ scallwalkatt2H NOT FOUND
+SEQ scallatt2Hb NOT FOUND
+SEQ doodstand2Hb NOT FOUND
+SEQ dood1hhalfswing NOT FOUND
+SEQ doodshieldblock NOT FOUND
+SEQ dood1hblock NOT FOUND
+SEQ doodcaststar NOT FOUND
+SEQ attrunmale NOT FOUND
+SEQ spinattackmale NOT FOUND
+SEQ daemongethit2 NOT FOUND
+SEQ volucgethit NOT FOUND
+SEQ dooddeathspin NOT FOUND
+SEQ femdeathspin NOT FOUND
+SEQ femwizdeathspin NOT FOUND
+SEQ scorpwalk NOT FOUND
+SEQ scorpatt1 NOT FOUND
+SEQ scorpatt2 NOT FOUND
+SEQ scorpatt3 NOT FOUND
+SEQ scorpdeath NOT FOUND
+SEQ animusdeath NOT FOUND
+SEQ attrunfem NOT FOUND
+SEQ spinattfem NOT FOUND
+SEQ fightstance1h NOT FOUND
+SEQ doodthrustdag NOT FOUND
+SEQ impthrustdag NOT FOUND
+SEQ impgethit NOT FOUND
+SEQ impdeath NOT FOUND
+SEQ hellhoundlunge NOT FOUND
+SEQ volucwalk NOT FOUND
+SEQ volucstanding NOT FOUND
+SEQ volucatt1 NOT FOUND
+SEQ volucatt2 NOT FOUND
+SEQ sinkgrounddeath NOT FOUND
+SEQ doodfastatt1 NOT FOUND
+SEQ doodfastatt2 NOT FOUND
+SEQ femfastatt1 NOT FOUND
+SEQ femfastatt2 NOT FOUND
+SEQ daemonatt3 NOT FOUND
+SEQ daemonatt4 NOT FOUND
+SEQ mummywalk NOT FOUND
+SEQ orcatt1 NOT FOUND
+SEQ orcatt2 NOT FOUND
+SEQ orcatt3 NOT FOUND
+SEQ orcgethit NOT FOUND
+SEQ orcdeath NOT FOUND
+SEQ gl NOT FOUND
+SEQ arachatt NOT FOUND
+SEQ arachwalk NOT FOUND
+SEQ doodrun NOT FOUND
+SEQ sitdown NOT FOUND
+SEQ point NOT FOUND
+SEQ victory NOT FOUND
+SEQ dance NOT FOUND

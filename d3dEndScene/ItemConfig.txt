@@ -1,0 +1,801 @@
+1,dagger,false
+2,staff,false
+3,mace,false
+4,throwing star,false
+5,club,false
+6,axe,false
+7,sword,false
+8,battle axe,false
+9,long sword,false
+10,two handed sword,false
+11,short sword,false
+12,halberd,false
+13,spiked mace,false
+14,long bow,false
+15,war hammer,false
+16,silver sword,false
+17,battle hammer,false
+18,dragon claw,false
+19,rapier,false
+20,magic throwing star,false
+21,magic dagger,false
+22,apprentice magic staff,false
+23,magic short sword,false
+24,magic mace,false
+25,magic sword,false
+26,magic battle axe,false
+27,magic wolf blades,false
+28,magic throwing star,false
+29,magic long bow,false
+30,magic rapier,false
+31,fire dagger,false
+32,fire staff,false
+33,fire mace,false
+34,fire sword,false
+35,silver mace,false
+36,magic 2H sword,false
+37,magic silver sword,false
+38,magic axe,false
+39,dragon sword,false
+40,silver axe,false
+41,acid dagger,false
+42,acid halberd,false
+43,acid mace,false
+44,acid sword,false
+45,acid axe,false
+46,silver short sword,false
+47,dispell mace,false
+48,dispell axe,false
+49,specteral dagger,false
+50,specteral mace,false
+51,earth hammer,false
+52,staff of omnis,false
+53,vorpal sword,false
+54,blood rapier,false
+55,ice blade,false
+56,ice mace,false
+57,scimitar,false
+58,life hammer,false
+59,acid staff,false
+60,lightning dagger,false
+61,lightning staff,false
+62,lightning mace,false
+63,lightning sword,false
+64,lightning bow,false
+65,vorpal battle axe,false
+66,giant sword,false
+67,bone mace,false
+68,sanctus blade,false
+69,lucrum animus staff,false
+70,mystic rapier,false
+71,mystic short sword,false
+72,mystic dagger,false
+73,mystic staff,false
+74,mystic mace,false
+75,mystic sword,false
+76,mystic battle axe,false
+77,mystic wolf blades,false
+78,vitadimere rapier,false
+79,vitadimere halberd,false
+80,mystic bow,false
+81,Sword of the Dead,true
+82,Staff of Almus,true
+83,Staff of Viarum,true
+84,dentibus mace,false
+85,Oreseth halberd,false
+86,mystic throwing star,false
+87,UNKNOWN,true
+88,Spirit Staff,true
+89,Spirit Sword,true
+90,Spirit Wand,true
+91,Spirit Ripper,true
+92,Spirit Mace,true
+93,Sword of Blood,true
+94,Altus Lucrum Staff,true
+95,Sword of Evil,true
+96,Ominex Rapier,true
+97,Staff of Ominex,true
+98,Sword of Ominex,true
+99,Hammer of Ominex,true
+100,Axe of Ominex,true
+101,Bow of Ominex,true
+102,Dirus Battle Axe,true
+103,Dirus Wand,true
+104,Dirus Sword,true
+105,UNKNOWN,true
+106,UNKNOWN,true
+107,UNKNOWN,true
+108,UNKNOWN,true
+109,leather armor,false
+110,leather gloves,false
+111,small shield,false
+112,studded leather,false
+113,specteral dragon claw,false
+114,chain hood,false
+115,chain gloves,false
+116,chain mail,false
+117,iron shield,false
+118,large shield,false
+119,vorpal scimitar,false
+120,elven leather,false
+121,iron helmet,false
+122,apprentice robe,false
+123,plate mail,false
+124,elven chain,false
+125,blood mace,false
+126,magic leather,false
+127,magic shield,false
+128,magic helmet,false
+129,magic Chain gloves,false
+130,magic Chain mail,false
+131,magic Elven leather,false
+132,blood axe,false
+133,mage robe,false
+134,magic Plate mail,false
+135,magic Elven chain,false
+136,magic Elven plate,false
+137,magic buckler,false
+138,ice hammer,false
+139,reflective shield,false
+140,reflective helmet,false
+141,reflective robe,false
+142,reflective chain,false
+143,reflective plate,false
+144,specteral gloves,false
+145,dragon helmet,false
+146,dragon shield,false
+147,gloves of strength,false
+148,arcane bow,false
+149,elemental shield,false
+150,elemental helmet,false
+151,elemental leather,false
+152,elemental chain,false
+153,elemental plate,false
+154,Dragon Lord Staff,true
+155,excelsus shield,false
+156,mage hat,false
+157,gloves of skill,false
+158,sanctus shield,false
+159,bone staff,false
+160,sanctus mace,false
+161,mystic shield,false
+162,mystic helmet,false
+163,mystic leather,false
+164,energy robe,false
+165,mystic plate,false
+166,sanctus axe,false
+167,adept hat,false
+168,gloves of rage,false
+169,mystic hat,false
+170,Oreseth claymore,false
+171,runic scimitar,false
+172,runic mace,false
+173,runic staff,false
+174,UNKNOWN,true
+175,Spirit Shield,true
+176,Spirit Helmet,true
+177,Spirit Leather,true
+178,Spirit Plate,true
+179,arcane axe,false
+180,diabolic gloves,true
+181,Shield of Ominex,true
+182,Helmet of Ominex,true
+183,Leather of Ominex,true
+184,Ominex Plate,true
+185,Dirus Armor,true
+186,Moon Robe,true
+187,UNKNOWN,true
+188,blue pearl,false
+189,white pearl,false
+190,amulet detect evil,false
+191,vitality potion,false
+192,velocitas potion,false
+193,food,false
+194,potion of curing,false
+195,battle scroll,false
+196,pine shaft arrows,false
+197,gold,true
+198,rage potion,false
+199,sensus scroll,false
+200,key (low),false
+201,life saving amulet,true
+202,magic potion,false
+203,strength amulet,false
+204,Shon tree leaf,true
+205,gas form potion,false
+206,hit amulet,false
+207,wand of transport,false
+208,wand of mederi,false
+209,minor shadow ring,false
+210,emerald,false
+211,red opal,false
+212,fulgur wand,false
+213,vis baritus scroll,false
+214,tueri ring,false
+215,arcflamma scroll,false
+216,vase,false
+217,key,false
+218,salubris ring,false
+219,magic arrows,false
+220,magic bag,true
+221,maximus potion,true
+222,reditus amulet,true
+223,scroll creare porta,false
+224,sanctus scroll,true
+225,arcane halberd,false
+226,white potion,true
+227,maximus amulet,true
+228,salutaris ring,false
+229,black pearl,true
+230,animus ring,true
+231,lucranimus ring,true
+232,scientia ring,true
+233,nex arrows,false
+234,arcane staff,false
+235,vis mederi ring,true
+236,vis tueri ring,true
+237,vis animus ring,true
+238,arcane sword,false
+239,diabolic rapier,true
+240,diabolic mace,true
+241,black sapphire,true
+242,Diabolic Staff,true
+243,diabolic scimitar,true
+244,arcane robe,false
+245,Spiritus Ring,true
+246,Diabolic Plate,true
+247,arcane hat,false
+248,Diabolic shield,true
+249,green elixir,true
+250,blue elixir,true
+251,white elixir,true
+252,Draconic Helmet,true
+253,Arachnid Blade,true
+254,glowing potion,true
+255,UNKNOWN,true
+256,Arachnid Staff,true
+257,Arachnid Mace,true
+258,Arachnid Bow,true
+259,Arachnid Shield,true
+260,Arachnid Carapace,true
+261,Arachnid Eye,true
+262,Ankh,true
+263,Ice Dragon Staff,true
+264,velocitas ring,false
+265,elven dagger,false
+266,barbed oak arrows,false
+267,oak shaft arrows,false
+268,barbed magic arrows,false
+269,magic battle hammer,false
+270,Oreseth claymore,false
+271,Ominex claymore,true
+272,Sword of Ominex,true
+273,Ominex Rapier,true
+274,magic staff,false
+275,mage magic staff,false
+276,magic sword,false
+277,magic sword,false
+278,magic Elven plate,false
+279,magic Chain gloves,false
+280,fire staff,false
+281,fire mace,false
+282,fire sword,false
+283,acid halberd,false
+284,acid mace,false
+285,acid staff,false
+286,specteral mace,false
+287,lightning bow,false
+288,sanctus shield,false
+289,runic scimitar,false
+290,mystic battle axe,false
+291,mystic wolf blades,false
+292,mystic plate,false
+293,arcane hat,false
+294,arcane hat,false
+295,mage hat,false
+296,arcane hat,false
+297,Helmet of Ominex,true
+298,Spirit Helmet,true
+299,elven long bow,false
+300,mystic bow,false
+301,arcane bow,false
+302,Bow of Ominex,true
+303,tueri ring,false
+304,salubris ring,false
+305,salutaris ring,false
+306,vis velocitas ring,true
+307,scientia ring,true
+308,Vis Omni Spiritus Ring,true
+309,apprentice mage ring,true
+310,mage ring,true
+311,master mage ring,true
+312,apprentice fighter ring,true
+313,fighter ring,true
+314,master fighter ring,true
+315,adept ring,true
+316,warrior ring,true
+317,excelsus shield,false
+318,mystic shield,false
+319,Spirit Shield,true
+320,Shield of Ominex,true
+321,Diabolic shield,true
+322,magic elven helmet,false
+323,black dragon helmet,false
+324,mystic helmet,false
+325,elven leather gloves,false
+326,elven chain gloves,false
+327,mage gloves,true
+328,adept gloves,true
+329,specteral gloves,false
+330,gloves of strength,false
+331,Leather of Ominex,true
+332,Ominex Plate,true
+333,lightning staff,false
+334,bone staff,false
+335,lucrum animus staff,false
+336,runic staff,false
+337,runic staff,false
+338,runic staff,false
+339,tueri ring,false
+340,minor fire ring,false
+341,minor energy ring,false
+342,minor ice ring,false
+343,minor spirit ring,false
+344,UNKNOWN,true
+345,staff of vis omnis,false
+346,Spirit Staff,true
+347,Staff of Almus,true
+348,Staff of Viarum,true
+349,arcane staff,false
+350,Diabolic Staff,true
+351,fire helmet,false
+352,fire helmet,false
+353,black dragon shield,false
+354,black dragon sword,false
+355,mystic arrows,false
+356,gloves of lethal rage,true
+357,vis omni velocitas ring,true
+358,Spirit Leather,true
+359,Spirit Plate,true
+360,Spirit Leather,true
+361,Spirit Wand,true
+362,Dirus Wand,true
+363,Adept Wand,true
+364,respec elixir,true
+365,spirit key,true
+366,Hell Sword,true
+367,Cron's adept ring,true
+368,Cron's fighter ring,true
+369,Cron's gloves,true
+370,Cron's Tail Wand,true
+371,Cron's Tail Dagger,true
+372,UNKNOWN,true
+373,Milly's Letter,false
+374,Harsad's Supplies,false
+375,small chest,false
+376,candle,false
+377,UNKNOWN,true
+378,UNKNOWN,true
+379,crystal,true
+380,UNKNOWN,true
+381,UNKNOWN,true
+382,mystic ore,true
+383,notebook,false
+384,flask,false
+385,Holy Spirit Helmet,true
+386,Holy Mystic Helmet,false
+387,Holy Power Mace,true
+388,Holy Power Shield,true
+389,gloves of Imexic,true
+390,gloves of Imexic,true
+391,Derath's ring,true
+392,Derath's ring,true
+393,adept magus hat,true
+394,Sogam's hat,true
+395,Sogam's hat,true
+396,Baraw's dragon helm,true
+397,Baraw's dragon helm,true
+398,Zon Rin's Leather,true
+399,Zon Rin's Leather,true
+400,Draconic Shield,true
+401,Draconic Sword,true
+402,skill respec elixir,true
+403,Demonic Leather,true
+404,Demonic Leather,true
+405,Oreseth guard ring,true
+406,fire bow,false
+407,Black dragon bow,false
+408,Dirus Bow,true
+409,Dirus Bow,true
+410,Bow of Lethal Speed,true
+411,Bow of Lethal Speed,true
+412,Dirus rapier,true
+413,Fragor mace,true
+414,Fragor axe,true
+415,Fragor mace,true
+416,Fragor axe,true
+417,UNKNOWN,true
+418,Glacialis scroll,true
+419,good vitality potion,false
+420,greater vitality potion,false
+421,super vitality potion,false
+422,strange liquid,false
+423,hazardous liquid,false
+424,dangerous liquid,false
+425,bag of junk,true
+426,health potion,false
+427,greater health potion,false
+428,powerful health potion,false
+429,magic regen potion,true
+430,fast gas form potion,false
+431,power potion,true
+432,Supplies,false
+433,Letter,false
+434,Locked Chest,false
+435,Urn,false
+436,Strange material,false
+437,ordinary ring,false
+438,Head,false
+439,Skull,false
+440,Tool box,false
+441,spirit crystal,false
+442,dragon blades,false
+443,Vorpal wolf blades,false
+444,spirit blades,true
+445,diabolic wolf blades,true
+446,Dirus Wolf Blades,true
+447,ominex wolf blades,true
+448,UNKNOWN,true
+449,spirit blades,true
+450,diabolic wolf blades,true
+451,hit amulet,false
+452,hit amulet,true
+453,Triton halberd,true
+454,Axe of Torment,true
+455,Axe of Havoc,true
+456,Triton Battle Axe,true
+457,Vexar Battle Axe,true
+458,Spirit Bow,true
+459,Havoc bow,true
+460,Triton Bow,true
+461,Vexar Bow,true
+462,Havoc blades,true
+463,Triton wolf blades,true
+464,Demon Eye Staff,true
+465,Vexar Staff,true
+466,Staff of Torment,true
+467,Mystic Bone Staff,true
+468,Optimus Magus Staff,true
+469,Vexar Sword,true
+470,Shadow Blade,true
+471,Blood Shadow Blade,true
+472,Volcanic Sword,true
+473,Mystic Bone Sword,true
+474,Rune Sword,true
+475,Volcanic Shield,true
+476,Mystic Bone Shield,true
+477,Triton Shield,true
+478,Omni Shield of Elements,true
+479,Dragon Lord Shield,true
+480,Full respec elixir,true
+481,giant sword,false
+482,arcane robe,false
+483,Adept robe,true
+484,Adept robe,true
+485,Moon Robe,true
+486,Gray Shroud,true
+487,Gray Shroud,true
+488,Vishabus Elixir,true
+489,Omnihabus Elixir,true
+490,Deed,false
+491,Dirus Battle Axe,true
+492,Dirus Armor,true
+493,Dirus Sword,true
+494,Rune Sword,true
+495,Vexar Battle Axe,true
+496,Vexar Bow,true
+497,Vexar Staff,true
+498,Vexar Sword,true
+499,Draconic Helmet,true
+500,Draconic Staff,true
+501,Draconic Shield,true
+502,Draconic Sword,true
+503,fighter gloves,false
+504,warrior gloves,false
+505,warrior gloves,false
+506,Vexar Warrior Gloves,true
+507,Vexar Warrior Gloves,true
+508,warrior ring,true
+509,Cron's warrior ring,true
+510,Draconic Staff,true
+511,vis omni velocitas ring,true
+512,Vis Omni Spiritus Ring,true
+513,adept gloves,true
+514,Vexar Demonic Gloves,true
+515,Vexar Demonic Gloves,true
+516,Adept Wand,true
+517,Vis Maximus Mace,true
+518,Vis Maximus Mace,true
+519,Demon Eye Staff,true
+520,Optimus Magus Staff,true
+521,Volcanic Shield,true
+522,Omni Shield of Elements,true
+523,adept magus hat,true
+524,shroud hat,true
+525,shroud hat,true
+526,Vexar Hat,true
+527,Vexar Hat,true
+528,Vexar Helmet,true
+529,Vexar Helmet,true
+530,Diamond,true
+531,gold small pile,true
+532,gold medium pile,true
+533,gold large pile,true
+534,gold huge pile,true
+535,Omni Spiritus Ring,true
+536,adept ring,true
+537,apprentice hat,false
+538,magic hat,false
+539,apprentice energy hat,false
+540,apprentice fire hat,false
+541,apprentice shadow hat,false
+542,Mage Skull,false
+543,Nex Crystal,false
+544,Mystic Repair Hammer,false
+545,mystic war mace,false
+546,Spirit war hammer,true
+547,Ominex war hammer,true
+548,War mace of Torment,true
+549,Vexar Hammer,true
+550,Death Knight Sword,true
+551,Diabolic Hammer,true
+552,Demonic war hammer,true
+553,War mace of Torment,true
+554,Death Knight Sword,true
+555,Vexar Robe,true
+556,Demonic Chain,true
+557,magic spiked plate,false
+558,shadow robe,false
+559,spirit robe,false
+560,Vexar Armor,true
+561,arcane axe,false
+562,Helm of Torment,true
+563,Diabolic Helmet,true
+564,Demonic Helmet,true
+565,Dirus Helmet,true
+566,shroud gloves,true
+567,Holy Ominex Helmet,true
+568,adept magus gloves,true
+569,Ominex warrior gloves,true
+570,Ominex warrior gloves,true
+571,shroud gloves,true
+572,Draconic Adept Gloves,true
+573,Draconic Warrior Gloves,true
+574,Ominex War Sword,true
+575,Shroud Sword,true
+576,Havoc War Sword,true
+577,Triton War Sword,true
+578,Diabolic Death Sword,true
+579,Demonic Axe,true
+580,Shroud Axe,true
+581,Death Knight Axe,true
+582,Bow of Torment,true
+583,Bow of Torment,true
+584,Havoc bow,true
+585,Demonic Bow,true
+586,Serpent Bow,true
+587,Master Archer Bow,true
+588,Draconic Bow,true
+589,dentibus mace,false
+590,Skull Crusher,false
+591,Draconic Mace,true
+592,Vexar Mace,true
+593,life hammer,false
+594,Hammer of Torment,true
+595,Dirus Hammer,true
+596,Death Knight Hammer,true
+597,Oblivion Sword,true
+598,Oblivion Battle Axe,true
+599,Oblivion Bow,true
+600,Oblivion Mace,true
+601,Staff of Ominex,true
+602,Diabolic Magus Staff,true
+603,Dirus Magus Staff,true
+604,Battle Mage Staff,true
+605,Mystic Bone Staff,true
+606,Mystic Bone Staff,true
+607,Holy Draconic Helmet,true
+608,Holy Crystal Shield,true
+609,Demon Lord Shield,true
+610,Dragon Lord Shield,true
+611,Demon Lord Shield,true
+612,Omni Diabolic Shield,true
+613,Vexar Shield,true
+614,Oblivion Staff,true
+615,Oblivion Staff,true
+616,Oblivion Shield,true
+617,Boots of Dodging,false
+618,Boots of Fortitude,false
+619,Dragon Boots,false
+620,Arcane Boots,false
+621,Fighter Boots,false
+622,Spirit Boots,false
+623,Boots of Torment,true
+624,Ominex Boots,true
+625,Diabolic Boots,true
+626,Shroud Boots,true
+627,Dirus Boots,true
+628,Draconic Boots,true
+629,Oblivion Boots,true
+630,Cloak of Protection,false
+631,Cape of Resistance,false
+632,Cloak of Accuracy,false
+633,Cape of Defense,false
+634,Mystic Cloak,false
+635,Cape of Fortitude,false
+636,Dragon Cloak,true
+637,Adept Cape,true
+638,Demonic Cloak,true
+639,Ominex Cape,true
+640,Dirus Cloak,true
+641,Omni Spiritus Cape,true
+642,Draconic Cloak,true
+643,Oblivion Cape,true
+644,Chain of Torment,true
+645,Leather of Torment,true
+646,Oblivion Robe,true
+647,Dirus Chain,true
+648,Oblivion Armor,true
+649,Vexar Robe,true
+650,Vexar Armor,true
+651,Shadow Crystal,true
+652,iron bar,false
+653,mystic bar,false
+654,vis maximus potion,true
+655,Vexar Wand,true
+656,Diabolic Wand,true
+657,Oblivion Wand,true
+658,Draconic Wand,true
+659,arcane dagger,false
+660,spirit dagger,false
+661,Volcanic Dagger,true
+662,Ominex Dagger,true
+663,Shroud Dagger,true
+664,Triton Dagger,true
+665,Dirus Dagger,true
+666,Draconic Dagger,true
+667,Vexar Dagger,true
+668,Cron's Tail Wand,true
+669,Draconic Wand,true
+670,UNKNOWN,true
+671,Magic Wand,false
+672,Fire Wand,false
+673,Ice Wand,false
+674,Mystic Wand,false
+675,Mystic Wand,false
+676,Arcane Wand,false
+677,Arcane Wand,false
+678,Volcanic Hat,true
+679,Dirus Magus Hat,true
+680,Hat of Torment,true
+681,Oblivion Hat,true
+682,Void Magna Armor,true
+683,UNKNOWN,true
+684,Void Magna Robe,true
+685,UNKNOWN,true
+686,Void Magna War Cape,true
+687,Void Magna Mage Cape,true
+688,Void Magna War Cape,true
+689,Void Magna Mage Cape,true
+690,Void Magna Helmet,true
+691,Void Magna Helmet,true
+692,dark mage hat,true
+693,Void Magna Hat,true
+694,Void Magna Hat,true
+695,animus cloth,true
+696,divinus cloth,true
+697,diabolic steel,true
+698,vexar titanium,true
+699,demon leather,true
+700,oblivion leather,true
+701,demon blood,true
+702,demon claw,true
+703,animus essence,true
+704,moon dust,true
+705,fighter ring,true
+706,adept ring,true
+707,vis omni velocitas ring,true
+708,mage hat,false
+709,Hat of Torment,true
+710,Dirus Magus Hat,true
+711,Tome of Health,true
+712,Tome of Magic,true
+713,Tome of Vitality,true
+714,Tome of Advancement,true
+715,Rune Duo ducvig,true
+716,Rune Quased Dra,true
+717,Rune Octocent Dra,true
+718,Rune Sedtrig Quin,true
+719,Rune Trig Quatent,true
+720,Rune Agin Octoquin,true
+721,Rune Cent Duovig,true
+722,Rune Ducagin Octi,true
+723,Rune of Spirit,true
+724,Rune of Force,true
+725,Rune of War,true
+726,Rune of Magic,true
+727,Rune of Protection,true
+728,Rune of Vitality,true
+729,Rune of Omnis,true
+730,acid bow,false
+731,magic hat of spirit,false
+732,magic hat of shadow,false
+733,rage helmet,true
+734,strike helmet,true
+735,apprentice spirit hat,false
+736,apprentice energy hat,false
+737,frost helmet,false
+738,energy helmet,vvfalse
+739,elemental adept hat,true
+740,holy adept hat,true
+741,Helm of Leaching,true
+742,Helm of Rage,true
+743,Hat of Spirit,true
+744,Volcanic Holy Hat,true
+745,Volcanic Shadow Hat,true
+746,Volcanic Frost Hat,true
+747,Demonic Helmet,true
+748,Demonic Helmet,true
+749,Volcanic Energy Hat,true
+750,tueri strength ring,true
+751,tueri agility ring,true
+752,tueri intelligence ring,true
+753,tueri wisdom ring,true
+754,ULTRA POWER RING,true
+755,scientia mage ring,true
+756,scientia fighter ring,true
+757,mage gloves,true
+758,mage gloves,true
+759,Holy Spirit Helmet,true
+760,Holy Spirit Helmet,true
+761,Adept Lucrum Staff,true
+762,Teasel,true
+763,Blue Cohosh,true
+764,Pennyroyal,true
+765,Tonsy,true
+766,Burdock,true
+767,Jewelweed,true
+768,clensing potion,true
+769,UNKNOWN,true
+770,Strange Orb,true
+771,Void Magna adept ring,true
+772,Void Magna warrior ring,true
+773,UNKNOWN,true
+774,UNKNOWN,true
+775,Void Magna Adept Gloves,true
+776,Void Magna War Gloves,true
+777,UNKNOWN,true
+778,UNKNOWN,true
+779,Cron's adept ring,true
+780,Cron's warrior ring,true
+781,Dirus Magus Hat,true
+782,Dirus Helmet,true
+783,Cape of Fortitude,false
+784,Dragon Cloak,true
+785,Demonic Cloak,true
+786,Ominex Cape,true
+787,Dirus Cloak,true
+788,Omni Spiritus Cape,true
+789,Draconic Cloak,true
+790,UNKNOWN,true
+791,Mystic Cloak,false
+792,Adept Cape,true
+793,Draconic Cloak,true
+794,Omni Spiritus Cape,true
+795,Vexar Cape,true
+796,Vexar Cape,true
+797,UNKNOWN,true
+798,UNKNOWN,true
+799,vis magic potion,true
+800,super magic potion,true
+801,dragon bow,false
